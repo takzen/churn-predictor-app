@@ -1,0 +1,21 @@
+# Secret credentials
+backend/.env
+
+# Python caches & virtual environments
+**/__pycache__/
+**/.venv/
+*.pyc
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Model artifacts
+backend/model_artifacts/
+
+# Data folder
+backend/data/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
